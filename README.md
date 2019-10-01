@@ -1,4 +1,4 @@
 # Test
-This is my change. Just a test. Huge biggie.
+Testing merge conflict. Just a test. Huge biggie.
 
 Changing something
